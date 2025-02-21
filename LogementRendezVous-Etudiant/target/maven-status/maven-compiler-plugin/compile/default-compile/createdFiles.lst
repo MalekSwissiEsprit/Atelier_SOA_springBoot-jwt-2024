@@ -1,0 +1,7 @@
+restApi\LogementRestApi.class
+entities\Logement.class
+utils\RestActivator.class
+restApi\RdvRestApi.class
+metiers\RendezVousBusiness.class
+metiers\LogementBusiness.class
+entities\RendezVous.class
